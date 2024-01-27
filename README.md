@@ -7,6 +7,9 @@ Hey there! 👋 I'm Khalid Md Ashik, a passionate data enthusiast on a mission t
 # Portfolio : Click the link below
 https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/
 
+# Kaggle Profile : Click the link below
+https://www.kaggle.com/dkhalidashik
+
 ## 🚀 About Me
 
 I'm on a thrilling journey to becoming a skilled data analyst, armed with a diverse set of tools and technologies. My quest involves mastering the following skills:
