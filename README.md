@@ -24,6 +24,8 @@ I'm on a thrilling journey to becoming a skilled data analyst, armed with a dive
 
 ### 🗄️ Database Management
 - SQL 🔍
+- MySQL 🌌
+- PostgreSQL 🐘
 
 ### 📊 Visualization Tools
 - Tableau 📈
