@@ -78,7 +78,7 @@
 Feel free to connect, collaborate, or just have a chat:
 
 - 💬 LinkedIn: [Khalid Md Ashik](https://www.linkedin.com/in/khalidmdashik/)
-- 📫 Email: [dkhalidashik@gmail.com](mailto:dkhalidashik@gmail.com)
+- 📫 Email: [Khalid.ashik@yahoo.com.com](mailto:Khalid.ashik@yahoo.com)
 
 ---
 
