@@ -130,7 +130,8 @@
 💬 [LinkedIn](https://www.linkedin.com/in/khalid-md-ashik/)  
 📧 [Email Me](mailto:Khalid.ashik@yahoo.com)  
 🌐 [Visit Portfolio](https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/)  
-📊 [Kaggle Profile](https://www.kaggle.com/dkhalidashik)
+📊 [Kaggle Profile](https://www.kaggle.com/dkhalidashik)  
+🤗 [Hugging Face – My LLM Models](https://huggingface.co/D-Khalid)
 
 ---
 
