@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/khalid-md-ashik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
   <a href="https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=githubpages" /></a>
   <a href="https://www.kaggle.com/dkhalidashik"><img src="https://img.shields.io/badge/Kaggle-Explore-black?style=flat&logo=kaggle" /></a>
+  <a href="https://huggingface.co/D-Khalid"><img src="https://img.shields.io/badge/HuggingFace-🤗%20Models-yellow?style=flat&logo=huggingface" /></a>
 </p>
 
 ---
