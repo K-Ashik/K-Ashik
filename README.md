@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k-ashik&label=Profile%20views&color=0e75b6&style=flat" alt="k-ashik" />
-  <a href="mailto:dkhalidashik@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Hi!-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/khalidmdashik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:Khalid.ashik@yahoo.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Hi!-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/khalid-md-ashik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
   <a href="https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=githubpages" /></a>
   <a href="https://www.kaggle.com/dkhalidashik"><img src="https://img.shields.io/badge/Kaggle-Explore-black?style=flat&logo=kaggle" /></a>
 </p>
@@ -78,7 +78,7 @@
 Feel free to connect, collaborate, or just have a chat:
 
 - 💬 LinkedIn: [Khalid Md Ashik](https://www.linkedin.com/in/khalidmdashik/)
-- 📫 Email: [Khalid.ashik@yahoo.com.com](mailto:Khalid.ashik@yahoo.com)
+- 📫 Email: [Khalid.ashik@yahoo.com](mailto:Khalid.ashik@yahoo.com)
 
 ---
 
