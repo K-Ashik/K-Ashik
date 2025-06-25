@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Khalid Md Ashik!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/26FPGtUBoFfj6FvXa/giphy.gif" width="50%" alt="Data Analysis Animation" />
 </p>
 
 <p align="center">
