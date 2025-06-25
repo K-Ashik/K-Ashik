@@ -12,20 +12,21 @@
 
 ## 🚀 About Me
 
-🎓 Master's student in Digital Transformation at Dortmund University of Applied Sciences & Arts  
-🔍 Aspiring Data Analyst passionate about **data storytelling** and **actionable insights**  
+🎓 Master's student in **Digital Transformation** at **Dortmund University of Applied Sciences & Arts**  
+🔍 Data Analyst with growing expertise in **LLMs**, **NLP**, and **Deep Learning**  
+🧠 Passionate about **data storytelling**, **model interpretability**, and **AI-driven insight**  
 📍 Based in Germany 🇩🇪  
-💡 Loves connecting tech with creativity  
+💡 Believer in data as a force for smarter, ethical, and inclusive solutions  
 
 ---
 
 ## 💼 What I Do
 
-- 🧹 Clean, wrangle, and preprocess messy real-world data
-- 📊 Build insightful dashboards & visualizations using **Tableau**, **Power BI**
-- 🤖 Train models using **scikit-learn**, **TensorFlow**, and **Keras**
-- 🧪 Perform statistical analysis and A/B testing for decision-making
-- 💾 Query and manage databases using **SQL**, **PostgreSQL**, **MySQL**
+- 📊 Analyze business data & generate dashboards in **Power BI**, **Tableau**
+- 🧠 Fine-tune and analyze models using **scikit-learn**, **Keras**, **TensorFlow**
+- 🤖 Explore **NLP** pipelines & **LLM-based** architectures (e.g., Hugging Face, RAG)
+- 📚 Perform **statistical testing**, **hypothesis validation**, and **A/B testing**
+- 💾 Query and manage large datasets using **SQL**, **PostgreSQL**, **MySQL**
 
 ---
 
@@ -35,7 +36,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 📊 Data & Visualization Tools
+### 🧠 Machine Learning & NLP
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=data&logoColor=white)
+
+### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -46,11 +54,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
-
-### 🤖 ML & DL Frameworks
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ---
 
@@ -64,6 +67,33 @@
 
 ---
 
+## 🏆 Publications & Achievements
+
+📄 **Publication**  
+**“Software-Intensive Solutions on Digital Business Perspectives”**  
+📍 *Dortmund IRC, Oct 2022*  
+🔗 DOI: [10.6084/m9.figshare.21407439](https://doi.org/10.6084/m9.figshare.21407439)
+
+📈 **Kaggle Ranking**  
+🥇 **Top 1,000** globally out of 60,000+  
+🏅 Badge: *Notebook Expert*
+
+🎓 **Certifications**  
+- Google Data Analytics – Coursera  
+- Google Business Intelligence – Coursera  
+
+---
+
+## 🌍 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇧🇩 Bengali | Native |
+| 🇬🇧 English | C1 – Advanced |
+| 🇩🇪 German | B1 – Intermediate |
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -73,15 +103,16 @@
 
 ---
 
-## 📫 Let's Connect!
+## 🤝 Let's Connect!
 
-Feel free to connect, collaborate, or just have a chat:
-
-- 💬 LinkedIn: [Khalid Md Ashik](https://www.linkedin.com/in/khalidmdashik/)
-- 📫 Email: [Khalid.ashik@yahoo.com](mailto:Khalid.ashik@yahoo.com)
+💬 [LinkedIn](https://www.linkedin.com/in/khalid-md-ashik/)  
+📧 [Email Me](mailto:Khalid.ashik@yahoo.com)  
+🌐 [Visit Portfolio](https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/)  
+📊 [Kaggle Profile](https://www.kaggle.com/dkhalidashik)
 
 ---
 
-> “Data is the new oil, but insight is the spark plug.” 🔥
+> *“Data is the new oil, but insight is the spark plug.”* 🔥  
+> *— Let’s turn data into decisions, together.*
 
-⭐ Don’t forget to **star** your favorite repositories — it means a lot!
+⭐ **Star** your favorite projects if they inspire you!
