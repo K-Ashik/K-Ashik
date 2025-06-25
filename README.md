@@ -70,6 +70,23 @@
 📍 [Explore here](https://www.kaggle.com/dkhalidashik)
 
 ---
+---
+
+## 💼 Experience
+
+### 📊 Data Analyst  
+**Sprandel Design Lab – Dhaka, Bangladesh**  
+*July 2019 – Sept 2020*
+
+- Developed interactive dashboards using **Power BI**, improving data comprehension by **20%**.
+- Analyzed technical drawings and specifications to support decision-making, project management, and cost analysis.
+
+### 🌐 Web Development Intern  
+**Preneur Lab – Dhaka, Bangladesh**  
+*Apr 2019 – Jun 2019*
+
+- Conducted **web scraping** to extract and analyze data from multiple online sources.
+- Assisted in **testing and debugging** web applications to ensure smooth deployment.
 
 ## 🏆 Publications & Achievements
 
