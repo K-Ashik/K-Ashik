@@ -65,6 +65,7 @@
 ## 📌 Featured Projects
 
 🔗 **Portfolio Website**  
+📍 [Visit here](https://portfolio-khalid-ashik.lovable.app)
 📍 [Visit here](https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/)
 
 🔗 **Kaggle Projects**  
