@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=k-ashik&label=Profile%20views&color=0e75b6&style=flat" alt="k-ashik" />
   <a href="mailto:Khalid.ashik@yahoo.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Hi!-red?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/khalid-md-ashik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=githubpages" /></a>
+  <a href="https://portfolio-khalid-ashik.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=googlechrome" /></a>
   <a href="https://www.kaggle.com/dkhalidashik"><img src="https://img.shields.io/badge/Kaggle-Explore-black?style=flat&logo=kaggle" /></a>
   <a href="https://huggingface.co/D-Khalid"><img src="https://img.shields.io/badge/HuggingFace-🤗%20Models-yellow?style=flat&logo=huggingface" /></a>
 </p>
@@ -17,21 +17,28 @@
 
 ## 🚀 About Me
 
-🎓 Master's student in **Digital Transformation** at **Dortmund University of Applied Sciences & Arts**  
-🔍 Data Analyst with growing expertise in **LLMs**, **NLP**, and **Deep Learning**  
-🧠 Passionate about **data storytelling**, **model interpretability**, and **AI-driven insight**  
-📍 Based in Germany 🇩🇪  
+🎓 Master's student in **Digital Transformation** at **Dortmund University of Applied Sciences & Arts** 🔍 Data Analyst with growing expertise in **LLMs**, **NLP**, and **Deep Learning** 🧠 Passionate about **data storytelling**, **model interpretability**, and **AI-driven insight** 📍 Based in Germany 🇩🇪  
 💡 Believer in data as a force for smarter, ethical, and inclusive solutions  
 
 ---
 
-## 💼 What I Do
+## 💼 Experience
 
-- 📊 Analyze business data & generate dashboards in **Power BI**, **Tableau**
-- 🧠 Fine-tune and analyze models using **scikit-learn**, **Keras**, **TensorFlow**
-- 🤖 Explore **NLP** pipelines & **LLM-based** architectures (e.g., Hugging Face, RAG)
-- 📚 Perform **statistical testing**, **hypothesis validation**, and **A/B testing**
-- 💾 Query and manage large datasets using **SQL**, **PostgreSQL**, **MySQL**
+### 🏢 RWE Power AG  
+**Working Student - IT Support for Compliance Digitalization & GenAI** *Germany | Sept 2025 – Present*
+- Implementing digitalization tools (**SharePoint**, **Power BI**, **LLMs**) to enhance team workflow and automation.
+- Analyzing data with **Power BI** to derive actionable insights for business processes.
+- Preparing custom **LLM agents** to achieve specific business objectives and task automation.
+
+### 🏢 Sprandel Design Lab  
+**Data Analyst** *Dhaka, Bangladesh | July 2019 – Sept 2020*
+- Developed interactive dashboards using **Power BI**, improving data comprehension by **20%**.
+- Analyzed technical drawings and specifications to support decision-making, project management, and cost analysis.
+
+### 🏢 Preneur Lab  
+**Web Development Intern** *Dhaka, Bangladesh | Apr 2019 – Jun 2019*
+- Conducted **web scraping** to extract and analyze data from multiple online sources.
+- Assisted in **testing and debugging** web applications to ensure smooth deployment.
 
 ---
 
@@ -64,45 +71,21 @@
 
 ## 📌 Featured Projects
 
-🔗 **Portfolio Website**  
-📍 [Visit here](https://portfolio-khalid-ashik.lovable.app)
-📍 [Visit here](https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/)
+🔗 **Portfolio Website** 📍 [Visit my new Portfolio](https://portfolio-khalid-ashik.lovable.app/)  
+📍 [Archived Portfolio](https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/)
 
-🔗 **Kaggle Projects**  
-📍 [Explore here](https://www.kaggle.com/dkhalidashik)
+🔗 **Kaggle Projects** 📍 [Explore here](https://www.kaggle.com/dkhalidashik)
 
 ---
----
-
-## 💼 Experience
-
-### 📊 Data Analyst  
-**Sprandel Design Lab – Dhaka, Bangladesh**  
-*July 2019 – Sept 2020*
-
-- Developed interactive dashboards using **Power BI**, improving data comprehension by **20%**.
-- Analyzed technical drawings and specifications to support decision-making, project management, and cost analysis.
-
-### 🌐 Web Development Intern  
-**Preneur Lab – Dhaka, Bangladesh**  
-*Apr 2019 – Jun 2019*
-
-- Conducted **web scraping** to extract and analyze data from multiple online sources.
-- Assisted in **testing and debugging** web applications to ensure smooth deployment.
 
 ## 🏆 Publications & Achievements
 
-📄 **Publication**  
-**“Software-Intensive Solutions on Digital Business Perspectives”**  
-📍 *Dortmund IRC, Oct 2022*  
-🔗 DOI: [10.6084/m9.figshare.21407439](https://doi.org/10.6084/m9.figshare.21407439)
+📄 **Publication** **“Software-Intensive Solutions on Digital Business Perspectives”** 📍 *Dortmund IRC, Oct 2022* 🔗 DOI: [10.6084/m9.figshare.21407439](https://doi.org/10.6084/m9.figshare.21407439)
 
-📈 **Kaggle Ranking**  
-🥇 **Top 1,000** globally out of 60,000+  
+📈 **Kaggle Ranking** 🥇 **Top 1,000** globally out of 60,000+  
 🏅 Badge: *Notebook Expert*
 
-🎓 **Certifications**  
-- Google Data Analytics – Coursera  
+🎓 **Certifications** - Google Data Analytics – Coursera  
 - Google Business Intelligence – Coursera  
 
 ---
@@ -117,12 +100,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Ashik&theme=radical" alt="GitHub Streak" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Ashik&layout=compact&theme=radical&v=2" alt="Top Languages" height="160" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=k-ashik&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="k-ashik" />
+  </a>
 </p>
 
 ---
@@ -131,7 +114,7 @@
 
 💬 [LinkedIn](https://www.linkedin.com/in/khalid-md-ashik/)  
 📧 [Email Me](mailto:Khalid.ashik@yahoo.com)  
-🌐 [Visit Portfolio](https://k-ashik.github.io/Khalid-The-Data-Analyst.github.io/)  
+🌐 [Visit Portfolio](https://portfolio-khalid-ashik.lovable.app/)  
 📊 [Kaggle Profile](https://www.kaggle.com/dkhalidashik)  
 🤗 [Hugging Face – My LLM Models](https://huggingface.co/D-Khalid)
 
