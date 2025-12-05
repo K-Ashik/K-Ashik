@@ -121,7 +121,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k-ashik&show_icons=true&theme=radical" alt="Khalid's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ashik&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ashik&layout=compact&theme=radical" height="160"/> 
 </p>
 
 ---
