@@ -120,9 +120,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-ashik&show_icons=true&theme=radical&v=1" alt="Khalid's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Ashik&show_icons=true&theme=radical&v=2" alt="K-Ashik Stats" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-ashik&layout=compact&theme=radical&v=1" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Ashik&layout=compact&theme=radical&v=2" alt="Top Languages" height="160" />
 </p>
 
 ---
